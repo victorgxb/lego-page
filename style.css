@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 350vh;
+  background: linear-gradient(aqua, rgb(123, 103, 235),red);
+  background-repeat: no-repeat;
+}
+.titulo {
+  text-align: center;
+}
+.lego-marvel {
+  position: relative;
+  left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pmarvel {
+  position: relative;
+  left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.imagem1{
+  filter: drop-shadow(5px 10px 10px);
+}
+.img2m {
+  position: absolute;
+  top: 164px;
+  right: 0px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.lego-hobbit {
+  position: relative;
+  left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.phobbit {
+  position: absolute;
+  left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hobbitimg2 {
+  position: absolute;
+  top: 820px;
+  right: 0px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.hobbitimage1 {
+  position: absolute;
+  top: 820px;
+  left: 10px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.hobbitimg2 {
+  position: absolute;
+  top: 820px;
+  right: 0px;
+}
+.hobbitimage1 {
+  position: absolute;
+  top: 820px;
+  left: 0px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.lego-gta {
+  position: absolute;
+  top: 1350px;
+  left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pgta {
+  position: absolute;
+  top: 1400px;
+  left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.img-gta {
+  position: absolute;
+  top: 1500px;
+  left: 20px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.img-gta2 {
+  position: absolute;
+  top: 1500px;
+  right: 10px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.lego-dc {
+  position: absolute;
+  top: 2030px;
+  left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pdc {
+  position: absolute;
+  top: 2080px;
+  left: 20px;
+}
+.img-dc {
+  position: absolute;
+  top: 2150px;
+  right: 10px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.img-dc2 {
+  position: absolute;
+  top: 2150px;
+  left: 20px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.lego-st {
+  position: absolute;
+  top: 2670px;
+  left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pst {
+  position: absolute;
+  top: 2710px;
+  left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.img-st1 {
+  position: absolute;
+  top: 2800px;
+  left: 20px;
+  filter: drop-shadow(5px 10px 10px);
+}
+.img-st2 {
+  position: absolute;
+  top: 2800px;
+  right: 5px;
+  filter: drop-shadow(5px 10px 10px);
+}
